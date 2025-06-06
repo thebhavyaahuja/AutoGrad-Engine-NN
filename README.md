@@ -1,6 +1,6 @@
 # AutoGrad-Engine-NN
 
-A scalar Autograd Engine that performs backpropagation and calculates gradients of a neural network.
+A minimal (scalar) autograd engine that implements reverse auto differentiation (backpropagation) to compute gradients. I have then implemented a simple neural network framework from scratch, similar to pyTorch.
 
 Example:
 
